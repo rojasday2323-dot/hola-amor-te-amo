@@ -95,7 +95,7 @@ button{font:inherit}
 100%{opacity:0}
 }
 @media(max-width:700px){
-.scene-img{object-position:58% center}
+.scene-img{object-fit:contain;object-position:center}
 .opening h1{font-size:42px}
 .opening p{font-size:11px}
 #start,#replay{font-size:12px}
